@@ -11,7 +11,7 @@ cordova create hello-cordova-vuejs com.example.hello HelloC-V --template hello-c
 2. install cordova dependence
 ```shell
 cd hello-cordova-vuejs/
-cordova platform add browser #cordava paltform add android ios
+cordova platform add browser
 cordova run browser
 ```
 
@@ -24,12 +24,13 @@ npm install
 npm run dev
 ```
 
-when build android or ios
+build with android or ios
 ```shell
 cd hello-cordova-vuejs/myApp/
 npm run build
 cd ../
-cordova build android #cordava build ios
+cordova paltform add android #cordova add ios
+cordova build android #cordova build ios
 ```
 
 # Todo
