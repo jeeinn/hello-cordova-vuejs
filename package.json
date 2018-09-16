@@ -1,0 +1,22 @@
+{
+    "name": "hello-cordova-vuejs",
+    "version": "1.0.0",
+    "description": "A cordova template with vuejs2.x for creating cordova app.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jeeinn/hello-cordova-vuejs.git"
+    },
+    "homepage": "https://github.com/jeeinn/hello-cordova-vuejs",
+    "keywords": [
+        "ecosystem:cordova",
+        "cordova:template",
+        "ecosystem:vuejs",
+        "hello-cordova-vuejs"
+    ],
+    "author": "Jeeinn",
+    "license": "MIT"
+}
