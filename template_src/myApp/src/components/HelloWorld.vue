@@ -8,7 +8,7 @@
           href="https://cordova.apache.org/"
           target="_blank"
         >
-          Cordava
+          Cordova
         </a>
       </li>
       <li>
