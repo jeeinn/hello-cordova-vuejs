@@ -5,12 +5,12 @@ A cordova template with vuejs2.x for creating cordova app.
 
 1. install with commond
  ```shell
-cordova create hello-cordova-vuejs com.example.hello HelloC-V --template hello-cordova-vuejs
+cordova create your-cordova-project com.example.hello HelloC-V --template hello-cordova-vuejs
 ```
 
 2. install cordova dependence
 ```shell
-cd hello-cordova-vuejs/
+cd your-cordova-project/
 cordova platform add browser
 cordova run browser
 ```
@@ -19,14 +19,14 @@ cordova run browser
 
 install app dependence
 ```shell
-cd hello-cordova-vuejs/myApp/
+cd your-cordova-project/myApp/
 npm install
 npm run dev
 ```
 
 build with android or ios
 ```shell
-cd hello-cordova-vuejs/myApp/
+cd your-cordova-project/myApp/
 npm run build
 cd ../
 cordova paltform add android #cordova add ios
