@@ -1,6 +1,6 @@
 {
     "name": "hello-cordova-vuejs",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A cordova template with vuejs2.x for creating cordova app.",
     "main": "index.js",
     "scripts": {
